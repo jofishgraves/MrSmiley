@@ -1,5 +1,5 @@
 // Written by Joseph Graves for Computer Graphics in Fall 2024
-// Do not reuse for assignment
+// Do not reuse for future assignment pls :)
 
 "use strict"
 
