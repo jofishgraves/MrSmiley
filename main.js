@@ -1,3 +1,6 @@
+// Written by Joseph Graves for Computer Graphics in Fall 2024
+// Do not reuse for assignment
+
 "use strict"
 
 //Canvas properities
