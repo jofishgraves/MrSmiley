@@ -1,3 +1,6 @@
+// Written by Joseph Graves for Computer Graphics in Fall 2024
+// Do not reuse for future assignment pls :)
+
 "use strict"
 /*
  * A class to define the 2D canvas
